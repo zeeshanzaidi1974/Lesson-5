@@ -23,7 +23,7 @@
     align-items: center;
     flex-wrap: wrap;
     
-     margin-top: 300px;
+     
 }
 
 .flex__heading {
@@ -33,7 +33,8 @@
 
 .container1 {
     border: 5px dotted coral;
-    position: relative;
+    left: 5px;
+    top : 15px;
     width: 60%;
     min-height: 50%;
     padding: 25px 0;
