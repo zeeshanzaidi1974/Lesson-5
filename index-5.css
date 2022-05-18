@@ -57,8 +57,7 @@
 }
 
 .card__img {
-    min-width: 50px;
-    min-height: 70px;
+    
     margin-bottom: 0px;
     display: flex;
     
