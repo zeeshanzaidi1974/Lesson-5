@@ -62,11 +62,11 @@
 }
 
 .card__img {
-    width: 80px;
+    width: 150px;
     height: 70px;
     margin-bottom: 0px;
     display: flex;
-    overflow: hidden;
+    
     
 }
 
