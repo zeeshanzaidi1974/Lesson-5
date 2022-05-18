@@ -62,8 +62,8 @@
 }
 
 .card__img {
-    width: 50px;
-    height: 50px;
+    width: 80px;
+    height: 70px;
     margin-bottom: 0px;
     display: flex;
     overflow: hidden;
