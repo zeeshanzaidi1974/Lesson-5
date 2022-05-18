@@ -35,10 +35,9 @@
     border: 5px dotted coral;
     
     width: 40%;
-    margin-left: 5px;
-    margin-top: 20px;
+    margin:0px;
     padding: 25px 0;
-    position: fixed
+    
     flex-wrap: wrap;
     background-color: aquamarine;
 
