@@ -61,7 +61,8 @@
     height: 50px;
     margin-bottom: 0px;
     display: flex;
-    overflow: hide;
+    
+    overflow: hidden;
        
 }
 
