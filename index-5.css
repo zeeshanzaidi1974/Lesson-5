@@ -35,8 +35,8 @@
     border: 5px dotted coral;
     left: 5px;
     top : 15px;
-    width: 60%;
-    min-height: 50%;
+    width: 40%;
+    
     padding: 25px 0;
     display: flex;
     flex-wrap: wrap;
