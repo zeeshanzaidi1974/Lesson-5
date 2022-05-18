@@ -26,11 +26,6 @@
      margin-top: 300px;
 }
 
-
-
-
-
-
 .flex__heading {
     font-size: 25px;
     margin-bottom: 30px;
@@ -66,41 +61,8 @@
     height: 70px;
     margin-bottom: 0px;
     display: flex;
-    
-    
+       
 }
-
-
-
-
-
-
-    /*
-margin-top: 350px;
-    justify-content: flex-start;
-    justify-content: flex-end;
-    justify-content: center;
-    justify-content: space-between;
-    justify-content: space-around;
-    justify-content: space-evenly;
-
-    align-items: flex-start;
-    align-items: flex-end;
-    align-items: center;
-    align-items: stretch;
-    align-items: baseline;
-
-    flex-direction: column; 
-    flex-direction: column-reverse;
-    flex-direction: row;
-    flex-direction: row-reverse;
-
-
-
-    */
-
-
-
 
 
 .card {
