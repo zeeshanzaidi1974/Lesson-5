@@ -60,7 +60,7 @@
     width: 80px;
     height: 100px;
     margin-bottom: 0px;
-    
+    display: flex;
     
     overflow: hidden;
        
