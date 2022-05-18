@@ -52,8 +52,8 @@
 .container2 {
     border: 5px dotted coral;
     position: relative;
-    width: 65%;
-    min-height: 70%;
+    width: 55%;
+    min-height: 80%;
     padding: 25px 0;
     display: flex;
     flex-wrap: wrap;
