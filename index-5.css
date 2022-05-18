@@ -59,8 +59,8 @@
 .card__img {
     
     margin-bottom: 0px;
-    min-width:50px;
-    min-hieght:70px;
+    width:50px;
+    hieght:70px;
     overflow: hidden;
     display: flex;
        
