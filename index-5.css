@@ -26,9 +26,11 @@
      
 }
 
-.flex__heading {
+.heading2 {
     font-size: 25px;
     margin-bottom: 30px;
+    margin-left: 300px
+    margin-top: 50px;
 }
 
 .container1 {
