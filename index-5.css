@@ -39,8 +39,8 @@
 .container1 {
     border: 5px dotted coral;
     position: relative;
-    width: 80%;
-    min-height: 90%;
+    width: 70%;
+    min-height: 80%;
     padding: 25px 0;
     display: flex;
     flex-wrap: wrap;
