@@ -113,3 +113,25 @@ background-color: blue;
 }
 
 
+.card4{
+    background-color: blue;
+    border: 5px solid black;
+    
+    width: 15px;
+    height: 40px;
+    margin: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: right;
+    align-items: right;
+    flex-basis: 70px;
+}
+
+
+
+
+
+
+
+
+
