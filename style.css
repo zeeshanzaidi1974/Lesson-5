@@ -94,7 +94,7 @@ background-color: blue;
     display: flex;
     flex-direction: row;
     justify-content: left;
-    align-items: left;
+    align-items: start;
     flex-basis: 70px;
 }
 
@@ -108,7 +108,7 @@ background-color: blue;
     display: flex;
     flex-direction: column;
     justify-content: left;
-    align-items: left;
+    align-items: start;
     flex-basis: 70px;
 }
 
