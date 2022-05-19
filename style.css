@@ -40,7 +40,7 @@
     border: 5px dotted coral;
     
     width: 90%;
-    min-height: 90%;
+    min-height: 120%;
     padding: 25px 0;
     display: flex;
     flex-wrap: wrap;
