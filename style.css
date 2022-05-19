@@ -78,7 +78,7 @@
     min-width: 320px;
     min-height: 40px;
     margin: 10px;
-    display: flex;
+    
     justify-content: left;
     align-items: left;
     flex-basis: 180px;
@@ -91,9 +91,9 @@ background-color: blue;
     min-width: 30px;
     min-height: 40px;
     margin: 10px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
+    
+    justify-content: left;
+    align-items: left;
     flex-basis: 70px;
 }
 
