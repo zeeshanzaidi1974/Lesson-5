@@ -89,7 +89,7 @@ background-color: blue;
     border: 5px solid black;
     
     min-width: 30px;
-    min-height: 40px;
+    min-height: 20px;
     margin: 10px;
     display: flex;
     justify-content: left;
