@@ -129,6 +129,8 @@ background-color: blue;
     flex-basis: 180px;
 }
 
+
+
 .card4{
     background-color: blue;
     border: 5px solid black;
@@ -143,6 +145,19 @@ background-color: blue;
     flex-basis: 70px;
 }
 
+.cardtwo{
+background-color: blue;
+    border: 5px solid black;
+    
+    width: 30px;
+    height: 40px;
+    margin: 2px;
+    display: flex;
+    flex-direction: row;
+    justify-content: left;
+    align-items: start;
+    flex-basis: 70px;
+}
 
 
 
