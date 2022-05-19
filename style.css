@@ -5,7 +5,7 @@
 
 .flex__example1 {
     height: 90vh; 
-    
+    position: relative;
     display: flex;
     flex-direction: row;
     justify-content: center;
@@ -39,8 +39,8 @@
 .container1 {
     border: 5px dotted coral;
     
-    width: 90%;
-    min-height: 120%;
+    width: 70%;
+    min-height: 100%;
     padding: 25px 0;
     display: flex;
     flex-wrap: wrap;
