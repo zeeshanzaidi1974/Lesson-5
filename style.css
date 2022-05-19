@@ -88,10 +88,10 @@
 background-color: blue;
     border: 5px solid black;
     
-    width: 30px;
-    height: 40px;
+    min-width: 30px;
+    min-height: 40px;
     margin: 10px;
-    
+    display: flex;
     justify-content: left;
     align-items: left;
     flex-basis: 70px;
