@@ -159,7 +159,19 @@ background-color: darkcyan;
     flex-basis: 70px;
 }
 
-
+.card5{
+    background-color: blue;
+    border: 5px solid black;
+    display: flex;
+    width: 30px;
+    height: 40px;
+    margin: 2px;
+    
+    flex-direction: row;
+    justify-content: center;
+    align-items: stretch;
+    flex-basis: 70px;
+}
 
 
 
