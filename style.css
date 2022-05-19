@@ -104,7 +104,7 @@ background-color: blue;
     
     width: 20px;
     height: 40px;
-    margin: 10px;
+    margin: 2px;
     display: flex;
     flex-direction: column;
     justify-content: left;
@@ -119,9 +119,9 @@ background-color: blue;
     
     width: 15px;
     height: 40px;
-    margin: 10px;
+    margin: 2px;
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
     justify-content: right;
     align-items: right;
     flex-basis: 70px;
