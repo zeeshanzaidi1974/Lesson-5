@@ -148,14 +148,14 @@ background-color: blue;
 .cardtwo{
 background-color: blue;
     border: 5px solid black;
-    
-    width: 30px;
-    height: 40px;
-    margin: 2px;
+    border-radius: 15px;
+    min-width: 30px;
+    min-height: 40px;
+    margin: 10px;
     display: flex;
-    flex-direction: row;
-    justify-content: left;
-    align-items: start;
+    
+    justify-content: right;
+    align-items: end;
     flex-basis: 70px;
 }
 
