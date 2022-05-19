@@ -136,7 +136,7 @@ background-color: blue;
     border: 5px solid black;
     display: flex;
     width: 15px;
-    height: 80px;
+    height: 40px;
     margin: 2px;
     
     flex-direction: row;
