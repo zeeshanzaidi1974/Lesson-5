@@ -122,8 +122,8 @@ background-color: blue;
     margin: 2px;
     
     flex-direction: row;
-    justify-content: right;
-    align-items: end;
+    justify-content: center;
+    align-items: center;
     flex-basis: 70px;
 }
 
