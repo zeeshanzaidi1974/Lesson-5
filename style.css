@@ -132,12 +132,12 @@ background-color: blue;
 
 
 .card4{
-    background-color: blue;
+    background-color: yellow;
     border: 5px solid black;
     display: flex;
     width: 30px;
     height: 40px;
-    margin: 2px;
+    margin: 3px;
     
     flex-direction: row;
     justify-content: center;
