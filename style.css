@@ -5,7 +5,7 @@
 
 .flex__example1 {
     height: 60vh; 
-    position: relative;
+    
     display: flex;
     flex-direction: row;
     justify-content: center;
