@@ -188,22 +188,46 @@ background-color: darkcyan;
     flex-basis: 70px;
 }
 
-.card5{
+.card51{
     background-color: blue;
     border: 5px solid black;
     
     width: 60px;
-    height: 80px;
+    min-height: 40px;
     margin: 2px;
-    
+    flex-grow: 1;
     flex-direction: row;
     justify-content: center;
     
     flex-basis: 70px;
 }
 
+.card52{
+    background-color: blue;
+    border: 5px solid black;
+    
+    width: 60px;
+    min-height: 40px;
+    margin: 2px;
+    flex-grow: 2;
+    flex-direction: row;
+    justify-content: center;
+    
+    flex-basis: 70px;
+}
 
-
-
+.card53{
+    background-color: blue;
+    border: 5px solid black;
+    
+    width: 60px;
+    min-height: 40px;
+    margin: 2px;
+    flex-grow: 3;
+    flex-direction: row;
+    justify-content: center;
+    
+    flex-basis: 70px;
+}
 
 
