@@ -94,8 +94,8 @@ background-color: blue;
     margin: 10px;
     display: flex;
     flex-direction: row;
-    justify-content: flex-start;
-    align-items: flex-end;
+    justify-content: left;
+    align-items: start;
     flex-basis: 70px;
 }
 
