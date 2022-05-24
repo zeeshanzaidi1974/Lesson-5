@@ -141,7 +141,7 @@ background-color: blue;
     min-height: 40px;
     margin: 10px;
     display: flex;
-    justify-content: center;
+    justify-content: flex-end;
     align-items: center;
     flex-basis: 180px;
 }
