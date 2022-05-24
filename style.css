@@ -14,28 +14,6 @@
     
 }
 
-.flex__example2 {
-    height: 100vh; 
-    
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    flex-wrap: wrap;
-    
-     margin-top: 420px;
-}
-
-
-
-
-
-
-.flex__heading {
-    font-size: 25px;
-    margin-bottom: 30px;
-}
-
 .container1 {
     border: 5px dotted coral;
     
@@ -47,29 +25,6 @@
     background-color: aquamarine;
 
 }
-
-
-.container2 {
-    border: 5px dotted coral;
-    
-    width: 115%;
-    min-height: 110%;
-    padding: 25px 0;
-    display: flex;
-    flex-wrap: wrap;
-    background-color: aquamarine;
-
-}
-
-.card__img {
-    width: 200px;
-    height: 100px;
-    margin-bottom: 0px;
-    
-    overflow: hidden;
-    display: flex;
-}
-
 
 .card {
     background-color: darkcyan;
