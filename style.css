@@ -171,8 +171,8 @@ background-color: darkcyan;
     margin: 10px;
     display: flex;
     
-    justify-content: right;
-    align-items: end;
+    justify-content: flex-start;
+    align-items: flex-start;
     flex-basis: 70px;
 }
 
