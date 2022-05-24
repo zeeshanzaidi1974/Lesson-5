@@ -116,7 +116,19 @@ background-color: blue;
     flex-basis: 70px;
 }
 
-
+.card6{
+background-color: blue;
+    border: 5px solid black;
+    
+    min-width: 20px;
+    min-height: 10px;
+    margin: 10px;
+    display: flex;
+    flex-direction: row;
+    justify-content: left;
+    align-self:flex-end;
+    flex-basis: 70px;
+}
 
 
 .card3{
